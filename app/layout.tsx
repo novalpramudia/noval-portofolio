@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   description: site.description,
   // Tambahan untuk verifikasi Google Search Console
   verification: {
-    google: "Wa83KwnPEYtPK",
+    google: "Wa83KwNPEYtPK1R4O2e4dGTImlixnmD3CUrKmRNN8Oc",
   },
   openGraph: {
     title: site.title,
